@@ -1,0 +1,2 @@
+# codeAwal
+code sebelum direfactoring
